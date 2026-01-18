@@ -57,8 +57,6 @@ The interactive dashboard visualizes:
 - Category and severity breakdowns  
 - Resolution and satisfaction trends  
 
-*(Dashboard screenshots can be found in the repository or linked externally.)*
-
 ## 📌 Project Outcome
 This project demonstrates the ability to:
 - Work with large real-world datasets  
